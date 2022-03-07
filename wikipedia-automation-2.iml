@@ -7,5 +7,51 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/src/resources/selenium/lib" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-api-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-chrome-driver-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-chromium-driver-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-devtools-v85-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-devtools-v95-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-devtools-v96-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-devtools-v97-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-edge-driver-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-firefox-driver-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-firefox-xpi-driver-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-http-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-ie-driver-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-java-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-json-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-opera-driver-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-remote-driver-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-safari-driver-4.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-support-4.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-api-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-chrome-driver-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-chromium-driver-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-devtools-v85-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-devtools-v95-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-devtools-v96-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-devtools-v97-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-edge-driver-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-firefox-driver-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-firefox-xpi-driver-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-http-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-ie-driver-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-json-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-opera-driver-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-remote-driver-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-safari-driver-4.1.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/resources/selenium/selenium-support-4.1.2-sources.jar!/" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/src/resources/selenium/lib" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>
