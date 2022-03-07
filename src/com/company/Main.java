@@ -17,5 +17,4 @@ public class Main {
         driver = new ChromeDriver();
         driver.get("https://www.google.com");
     }
-
 }
